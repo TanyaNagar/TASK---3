@@ -20,21 +20,21 @@ let questions = [
     answer:1 ,
     },
     {
-        question: 'Which of the following element is responsible for making the text bold in HTML?',
-    choice1:'<pre>',
-    choice2:'<a>',
-    choice3:'<b>',
-    choice4:'<br>',
-    answer: 3,
+        question: 'The HTML attribute used to define the inline styles is -',
+    choice1:'style',
+    choice2:'class',
+    choice3:'styles',
+    choice4:'None of the above',
+    answer: 1,
 
     },
     {
-        question: 'Which of the following tag is used for inserting the largest heading in HTML?',
-    choice1:'<h3>',
-    choice2:'<h1>',
-    choice3:'<h5>',
-    choice4:'<h6>',
-    answer:2 ,
+        question: 'The CSS property used to make the text bold is -',
+    choice1:'style: bold',
+    choice2:'weight: bold',
+    choice3:'font: bold',
+    choice4:'font-weight : bold',
+    answer:4 ,
     },
     {
         question: 'CSS stands for -',
@@ -45,12 +45,12 @@ let questions = [
     answer: 3,
     } ,
     {
-        question: 'Which of the following CSS property is used to represent the overflowed text which is not visible to the user?',
-    choice1:'text-shadow',
-    choice2:'text-stroke',
-    choice3:'text-decoration',
-    choice4:'text-overflow',
-    answer: 4,
+        question: 'The CSS property used to specify the transparency of an element is -',
+    choice1:'filter',
+    choice2:'opacity',
+    choice3:'visibility',
+    choice4:'overlay',
+    answer: 2,
     } 
 ]
 
